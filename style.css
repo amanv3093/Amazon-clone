@@ -177,7 +177,7 @@ margin-bottom: 50px;
    width: 23%;
     background-color: white;
     margin-top: 15px;
-    border: 1px solid plum;
+   
     font-size: 0.85rem;
 }
 .shop-section{
@@ -186,7 +186,7 @@ margin-bottom: 50px;
     background-color: #007185;
 }
 .box-img{
-    height: 240px;
+   
     background-size: cover;
     background-repeat: no-repeat;
     margin-top: 1rem;
@@ -196,4 +196,58 @@ margin-bottom: 50px;
 .box1 a,.box2 a,.box3 a,.box4 a{
     color: #007185;
     text-decoration: none;
+}
+.top-section{
+    width: 97%;
+    margin: 15px auto;
+    height: 325px;
+    background-color: #f3f3f3;
+}
+.top-section-img-2{
+    height: 170px;
+    width: 170px;
+    margin: 10px 37px;
+}
+.top-section-img{
+height: 265px;
+width: 19%;
+   
+}
+.top-section-main{
+    display: flex;
+    justify-content: space-around;
+   
+   
+}
+.top-section-price{
+    font-size: 0.85rem;
+}
+.top-section-btn button{
+    background-color: #e13363;
+    border: none;
+    padding: 4px 5px;
+    border-radius: 2px;
+    font-weight: 600;
+    color: white;
+}
+.control-back{
+margin: 0px 35px;
+line-height: 17px;
+}
+.top-section-heading{
+    display: flex;
+    margin: 2px 35px;
+    padding: 8px 0px;
+}
+.top-section-heading h3{
+    padding: 0px 15px;
+}
+.top-section-heading a{
+    text-decoration: none;
+    margin: 3px 0px;
+    font-size: 0.85rem
+}
+.top-section-price-span{
+    color: #e13363;
+    font-weight: 600;
 }
